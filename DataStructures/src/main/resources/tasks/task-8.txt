@@ -1,0 +1,7 @@
+# Properties
+
+A)
+* Wczytaj plik tasks/8/f.properties do klasy Properties
+* Wyświetl wszystkie klucze i wartości
+* zmodyfikuj jeden wpis/dodaj nowy
+* zapisz zmodyfikowany obiekt do pliku

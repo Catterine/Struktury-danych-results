@@ -1,0 +1,10 @@
+# Porównywanie
+
+A)
+Stwórz listę dowolnych stringów i ją posortuj (Collections)
+
+B)
+Stwórz listę dowolnych miast i ją posortuj po nazwie (Comparable)
+
+C)
+Posortuj te miasta, ale po ilości mieszkańców (Comparator)

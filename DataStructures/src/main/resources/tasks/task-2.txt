@@ -1,0 +1,18 @@
+# Tablice
+
+A) Utwórz następujące tablice:
+    + 10 elementową tablicę, przechowującą liczby całkowite z wartościami domyślnymi
+    + tablica składająca się z 0 elementów
+    + wskaźnik na tablicę przechowującą stringi
+    + tablicę liczb zmiennoprzecinkowych, zainicjowaną 3 dowolnymi wartościami
+    + tablicę wielowymiarową
+
+B) Utwórz tablicę przechowującą przynajmniej 5 różnych liczb zmiennoprzecinkowych.
+    + znajdź i wyświetl największy element
+
+C) Do zadania z Gdańskiem, dodaj klasę reprezentująca Państwo oraz
+    + tablicę miast w państwie
+    + miasto przechowuje informację o tym, w jakim jest państwie
+    + wyświetl wszystkie miasta z państwa (nadpisz metodę toString)
+
+D) https://github.com/matyb/java-koans/blob/master/koans/src/beginner/AboutArrays.java

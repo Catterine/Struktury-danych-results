@@ -1,0 +1,6 @@
+# Rekord
+
+* Stwórz pakiet task1.
+* Stwórz klasę task1.City z niezbędnymi polami.
+* Stwórz klasę task1.Task1Main z metodą main, gdzie:
+    + utwórz przynajmniej 2 różne miasta.

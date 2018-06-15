@@ -1,0 +1,2 @@
+# Stos
+* Wczytaj dane z pliku "resources/task13/f.txt" i korzystając ze stosu wypisz je w odwrotnej kolejności.

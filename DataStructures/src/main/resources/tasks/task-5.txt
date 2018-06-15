@@ -1,0 +1,13 @@
+# Stos
+
+* Zaimplementuj stos wykorzystując dane z pliku /resources/tasks/5/stos.txt
+W pierwszej linii znajduje się ilość testów, a następnie dla każdego testu w osobnej linii dane wejściowe.
+Poszczególne dane wejściowe składają się z elementów, które należy dodać do stosu oraz operacji, które trzeba na nim wykonać.
+Przykładowo „3 pop 5 pop”
+Dla tych danych wejściowych algorytm powinien wykonać takie kroki:
+1) dodać 3 na stos
+2) zdjąć ostatni element ze stosu
+3) dodać 5 na stos
+4) zdjąć ostatni element ze stosu
+5) wyświetlić zawartość stosu, czyli pusty zbiór.
+Wynik wyświetlamy na standardowe wyjście oraz zapisujemy do pliku stos-out.txt

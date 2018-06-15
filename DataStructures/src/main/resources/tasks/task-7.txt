@@ -1,0 +1,3 @@
+# Mapa
+
+A) Poprzednie zadanie z osobami przerób tak, by kluczem mapy było nazwisko, a wartością zbiór osób o tym nazwisku

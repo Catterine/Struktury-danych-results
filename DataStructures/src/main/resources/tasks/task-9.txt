@@ -1,0 +1,9 @@
+# Data i czas
+
+A)
+* wyświetl aktualną godzinę i datę w formacie "rok-miesiąc-dzień godzina:minuta:sekunda" (SimpleDateFormat)
+* utwórz obiekt Data wskazujący na czas: 2018-06-13 23:14:06
+* dodaj do otrzymanej daty 1 dzień, 1 godzinę, a następnie wyświetl wynik (Calendar)
+
+B)
+* wyświetl obecną datę w formacie skróconym i pełnym dla domyślnych i podanych jawnie lokali. (DateFormat.getDateInstance(DateFormat.SHORT, locale))

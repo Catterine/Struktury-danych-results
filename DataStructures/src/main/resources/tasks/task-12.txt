@@ -1,0 +1,11 @@
+# Ciąg Fibonacciego
+
+A)
+Zaimplementuj algorytm rekurencyjny ciągu Fibonacciego i wyświetl pierwszych 40 elementów.
+Każdy element w nowej linii w formacie: "[numer elementu] => [wartość elementu] => [czas w milisekundach potrzebny do obliczenia]"
+
+B)
+Dla kolejnych 90 elementów.
+
+C)
+1000 elementów...

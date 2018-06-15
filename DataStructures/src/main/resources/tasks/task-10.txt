@@ -1,0 +1,4 @@
+# Iterator
+* Utwórz listę przechowującą wszystkie liczby całkowite od 0 do 10
+* Korzystając z iteratora wyświetl wszystkie elementy i usuń parzyste.
+* Wyświetl przefiltrowaną tablicę

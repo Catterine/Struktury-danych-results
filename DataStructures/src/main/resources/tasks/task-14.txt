@@ -1,0 +1,2 @@
+# Wystąpienia
+* Policz wystąpienia znaków i słów w zadanym tekście.

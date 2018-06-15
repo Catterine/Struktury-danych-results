@@ -1,0 +1,10 @@
+# Listy
+
+A) Utwórz listę tablicową składającą się z 3 elementów
++ wyświetl środkowy element
++ usuń środkowy element
++ wyświetl listę
+
+B) Utwórz listę wskaźnikową i dodaj do niej 100 losowych elementów z przedziału <0, 10>
+
+C) Przerób w zadaniu z Gdańskiem tablicę miast na listę.

@@ -1,0 +1,6 @@
+# Kolejka
+
+* Utwórz kolejkę przechowującą imiona kilku osób
+    + dodaj kilka elementów
+    + wyświetl wszystkie elementy kolejki - nie usuwając ich
+    + wyświetlaj i usuwaj elementy z kolejki tak długo, aż kolejka będzie pusta.

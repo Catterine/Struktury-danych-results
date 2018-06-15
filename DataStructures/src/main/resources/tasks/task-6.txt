@@ -1,0 +1,8 @@
+# Stos
+
+A) W pliku set.txt w osobnych liniach znajdują się informacje o osobach: "imię nazwisko wiek"
+Wczytaj te informacje do zbioru swoich własnych obiektów, jednocześnie pozbywając się wszystkich duplikatów.
+Otrzymany wynik wyświetl na standardowym wyjściu.
+
+B) Przerobić Country.cities na Set
+    + zaimplementować metody equals, hashCode, toString
